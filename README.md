@@ -1,4 +1,3 @@
-Hello
 
 # Storefront 3.0 by Alex and Halima
 
