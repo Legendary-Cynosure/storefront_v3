@@ -40,7 +40,9 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 ## How to use
 
-Download this repository as a zip-file to your Desktop and decompress the file. Then using an IDE like code, cd into the new project file and open up the terminal. From here, run the command `npm install` to install node-modules, then run `npm run dev` 
+- Download this repository as a zip-file to your Desktop and decompress the file.
+- Then using an IDE like code, cd into the new project file and open up the terminal.
+- From here, run the command `npm install` to install node-modules, then run `npm run dev`.
 
 Your own storefront should be up and running on [http://localhost:3000](http://localhost:3000)! If it doesn't work, post on [GitHub discussions](https://github.com/vercel/next.js/discussions).
 
